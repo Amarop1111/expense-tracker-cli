@@ -1,0 +1,74 @@
+Welcome to the Expense Tracker!
+
+===== Expense Tracker =====
+1. Add expense
+2. List all expenses
+3. Show total by category
+4. Show overall total
+5. Exit
+Enter your choice (1-5): 
+--- Add Expense ---
+Description: Category: Amount: Added "Coffee" (Food) - 4.50
+
+===== Expense Tracker =====
+1. Add expense
+2. List all expenses
+3. Show total by category
+4. Show overall total
+5. Exit
+Enter your choice (1-5): 
+--- Add Expense ---
+Description: Category: Amount: Added "Bus ticket" (Transport) - 2.25
+
+===== Expense Tracker =====
+1. Add expense
+2. List all expenses
+3. Show total by category
+4. Show overall total
+5. Exit
+Enter your choice (1-5): 
+--- Add Expense ---
+Description: Category: Amount: Added "Groceries" (Food) - 32.10
+
+===== Expense Tracker =====
+1. Add expense
+2. List all expenses
+3. Show total by category
+4. Show overall total
+5. Exit
+Enter your choice (1-5): 
+--- All Expenses ---
+#   Description                 Category                Amount
+--------------------------------------------------------------
+1   Coffee                      Food                      4.50
+2   Bus ticket                  Transport                 2.25
+3   Groceries                   Food                     32.10
+
+===== Expense Tracker =====
+1. Add expense
+2. List all expenses
+3. Show total by category
+4. Show overall total
+5. Exit
+Enter your choice (1-5): 
+--- Category Total ---
+Category to total: 2 expense(s) in "food" - Total: 36.60
+
+===== Expense Tracker =====
+1. Add expense
+2. List all expenses
+3. Show total by category
+4. Show overall total
+5. Exit
+Enter your choice (1-5): 
+--- Overall Total ---
+Total across 3 expense(s): 38.85
+
+===== Expense Tracker =====
+1. Add expense
+2. List all expenses
+3. Show total by category
+4. Show overall total
+5. Exit
+Enter your choice (1-5): 
+Goodbye! Your session's expenses were not saved to disk.
